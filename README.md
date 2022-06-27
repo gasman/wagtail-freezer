@@ -19,7 +19,7 @@ Generates static HTML sites from a Wagtail project
 ## Supported versions
 
 - Python 3.7 - 3.10
-- Django 3.x
+- Django 3.2 - 4.0
 - Wagtail 3.x
 
 ## Installation
