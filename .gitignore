@@ -1,0 +1,13 @@
+*.pyc
+/build
+/dist
+/wagtail_freezer.egg-info
+/.coverage
+/htmlcov
+/.tox
+/venv
+/.vscode
+/site
+/test_wagtail_freezer.db
+/test-static
+/test-media
