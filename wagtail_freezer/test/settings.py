@@ -153,9 +153,12 @@ STATIC_ROOT = os.path.join(BASE_DIR, "test-static")
 STATIC_URL = "/static/"
 
 MEDIA_ROOT = os.path.join(BASE_DIR, "test-media")
+MEDIA_URL = "/media/"
 
 
 # Wagtail settings
 
 WAGTAIL_SITE_NAME = "Wagtail Freezer test site"
 WAGTAILADMIN_BASE_URL = "http://localhost"
+
+FREEZER_BUILD_DIR = os.path.join(BASE_DIR, "test-build")
